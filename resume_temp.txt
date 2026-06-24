@@ -1,0 +1,20 @@
+John Doe
+Email: john.doe@example.com
+Phone: +1-555-0199
+GitHub: github.com/johndoe
+LinkedIn: linkedin.com/in/johndoe
+
+Summary:
+Experienced Full Stack Software Engineer with a strong background in React, TypeScript, and Python. Passionate about building scalable cloud architectures and backend services.
+
+Education:
+Bachelor of Science in Computer Science, State University, 2021
+
+Experience:
+Senior Software Engineer, TechCorp, 2022 - Present
+* Designed and built scalable web applications using React and Node.js.
+* Optimized database queries in PostgreSQL, improving response time by 40%.
+* Configured CI/CD pipelines with GitHub Actions and deployed microservices on AWS using Docker.
+
+Skills:
+React, TypeScript, Node.js, Python, PostgreSQL, AWS, Docker, GitHub Actions, Git, REST APIs, HTML, CSS.
